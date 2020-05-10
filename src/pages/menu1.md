@@ -39,7 +39,7 @@ Well done to my PhD student Stefan Michalski who passed his PhD proposal this we
 ~~~
 _Life skills training: A virtual reality intervention for people living with an intellectual disability_
 
-![](/assets/infra/StefanPassedPhDProposal.jpeg)
+![](/assets/infra/StefanPhDProposal.jpeg)
 
 **1 April 2020 - Ongoing**
 
