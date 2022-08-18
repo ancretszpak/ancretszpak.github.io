@@ -1,4 +1,4 @@
-@def title = "Research Focus"
+@def title = "Research"
 @def hascode = true
 @def rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg)"
 @def rss_title = "More goodies"
@@ -20,7 +20,7 @@ To investigate virtual reality aftereffects on certain aspects of vision, cognit
 ~~~
 @@row
 @@container
-@@left ![](/assets/infra/BBBRC_3360.jpg) @@
+@@left ![](/assets/BBBRC_3360.jpg) @@
 @@
 Virtual reality sickness (or _Motion Sickness_) has plagued the VR industry since the early days. Improvements with device features such as field of view, screen resolution, latency, and tracking accuracy, have all made it possible for most people to better tolerate modern head-mounted displays.
 
@@ -52,7 +52,7 @@ I have also been really fortunate to collaborate with experts in the VR field su
 
  @@row
  @@container
- @@right ![](/assets/infra/RW_VR_TT2.png) @@
+ @@right ![](/assets/RW_VR_TT2.png) @@
  @@
  A key assumption of VR training is that if a virtual environment mimics a real world training environment then people can learn skills and get better in the real world.
 
@@ -64,13 +64,13 @@ I have also been really fortunate to collaborate with experts in the VR field su
 
  Starting out as an Honours project on learning Table Tennis skills in [Eleven: Table Tennis VR](https://forfunlabs.github.io/ElevenVR.github.io//) and testing whether novice table tennis players got better in the real world, this research evolved into a key publication in its field and has garnered much attention.
 
- During this time, my research team and I had the exciting opportunity of working with Table Tennis Professionals, Paul Langley (President) and Kay Crowell (Director) of [Table Tennis SA](https://www.tabletennissa.org.au/board-of-management/).
+ During this time, my research team and I had the exciting opportunity of working with Table Tennis Professionals, Paul Langley (President) and Kay Crowell (Director) of [Table Tennis SA](https://www.tabletennissa.org.au/about/committee/).
 
 ##
 
  @@row
  @@container
- @@left ![](/assets/infra/BBBRC_Stefan2.jpg) @@
+ @@left ![](/assets/BBBRC_Stefan2.jpg) @@
  @@
  After the fantastic work Stefan did in the Table Tennis study, he was awarded a PhD scholarship to study his passion _Life skills training in VR for people living with an intellectual disability_.
 
@@ -99,7 +99,7 @@ There are several studies I have been involved in which fall under this project 
 
 @@row
 @@container
-@@right ![](/assets/infra/GlenelgET_scooter.png) @@
+@@right ![](/assets/GlenelgET_scooter.png) @@
 @@
 <!--Using mobile eye-tracking, physiological sensors and virtual reality, we aimed to compare how older adults experienced the [Glenelg Jetty Road area](https://www.google.com/maps/dir/Glenelg+Public+Library,+Colley+Terrace,+Glenelg+SA/Jetty+Rd,+Glenelg+SA+5045/@-34.9803394,138.5133888,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6ab0db1b0b87202d:0xa2fbf571af32052f!2m2!1d138.512106!2d-34.979774!1m5!1m1!1s0x6ab0db1c4c197483:0xef0daa3a714bb480!2m2!1d138.5168101!2d-34.980204!3e2) in real and virtual environments.-->
 One of these studies that I would like to highlight is a usability study comparing how older adults experience real and virtual environments of the [Glenelg Jetty Road area](https://www.google.com/maps/dir/Glenelg+Public+Library,+Colley+Terrace,+Glenelg+SA/Jetty+Rd,+Glenelg+SA+5045/@-34.9803394,138.5133888,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6ab0db1b0b87202d:0xa2fbf571af32052f!2m2!1d138.512106!2d-34.979774!1m5!1m1!1s0x6ab0db1c4c197483:0xef0daa3a714bb480!2m2!1d138.5168101!2d-34.980204!3e2).

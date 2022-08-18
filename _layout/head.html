@@ -18,21 +18,21 @@
       .franklin-content {padding-left: 6%; padding-right: 6%;}
     }
   </style>
-  <link rel="icon" href="/assets/infra/ancreticon.jpg">
+  <link rel="icon" href="/assets/favicon.png">
   {{isdef title}} <title>{{fill title}}</title>  {{end}}
 </head>
 <body>
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1><a href="/"></a></h1>
-      <p class="lead">Ancret Szpak, PhD</p>
+      <h1><a href="/">Ancret Szpak</a></h1>
+      <p class="lead">Ph.D (Psychology)</p>
     </div>
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/">Home</a>
-      <a class="sidebar-nav-item {{ispage pub/menu1.html}}active{{end}}" href="/pub/menu1.html">News</a>
-      <a class="sidebar-nav-item {{ispage pub/menu2.html}}active{{end}}" href="/pub/menu2.html">Research</a>
-      <a class="sidebar-nav-item {{ispage pub/menu3.html}}active{{end}}" href="/pub/menu3.html">Publications</a>
+      <a class="sidebar-nav-item {{ispage menu1/*}}active{{end}}" href="/menu1/">News</a>
+      <a class="sidebar-nav-item {{ispage menu2/*}}active{{end}}" href="/menu2/">Research</a>
+      <a class="sidebar-nav-item {{ispage menu3/*}}active{{end}}" href="/menu3/">Publications</a>
     </nav>
     <p>&copy; {{fill author}}.</p>
   </div>

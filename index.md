@@ -8,9 +8,9 @@ where appropriate -->
 # About me
 @@row
 @@container
-@@left ![](/assets/infra/ancret.jpg) @@
+@@left ![](/assets/ancret.jpg) @@
 @@
-I'm a postdoctoral research associate at the [Cognitive Ageing and Impairment Neurosciences (CAIN)](http://www.cain.science/people) laboratory, which is part of the [Behaviour Brain Body (BBB)](https://behaviourbrainbody.com.au/) research centre at the University of South Australia.
+I'm a postdoctoral research associate at the [Cognitive Ageing and Impairment Neurosciences (CAIN)](http://www.cain.science/people) laboratory, which is part of the [Behaviour Brain Body (BBB)](https://unisa.edu.au/research/behaviour-brain-body/) research centre at the University of South Australia.
 
 I am interested in the (1) the application of virtual reality to develop or enhance real-world skills, (2) investigating the aftereffects people may experience from using virtual reality devices, and (3) the application and analysis of mobile eye-tracking in complex real world scenes.
 ~~~
@@ -32,7 +32,7 @@ I am also coordinating projects on VR training in sports, rehabilitation, relaxa
 ## How did I come to be here?
 After immigrating to Australia from South Africa in 2009, I started an Honours in Psychology at Flinders University. I was supervised by two exceptional mentors, [Professor Mike Nicholls](https://scholar.google.com.au/citations?user=2C7KixcAAAAJ&hl=en&oi=sra) and [Dr Tobias Loetscher](https://scholar.google.com.au/citations?user=fBU6ZDQAAAAJ&hl=en&oi=ao), who continue to support and inspire me. My Honours thesis was about how other people in our environment can influence our spatial attention. This topic sparked my curiosity in behavioural research and a fascination with acquiring new insight by combining different subject areas. I felt there was more to learn and continued on to do a PhD with Professor Nicholls and Dr Loetscher. My PhD focused on how close interpersonal distances and social preferences can influence how we pay attention to our environment.
 
-After my maternity leave, I was very fortunate to have a position working with [Professor Martin Westwell](https://www.sace.sa.edu.au/about/who-we-are/the-board#Martin-WESTWELL), who stimulates curiosity and creative thinking in everyone around him. Through him, I developed a great appreciation for applied psychology and during my time working with Professor Westwell, my idea of studying virtual reality aftereffects emerged.
+After my maternity leave, I was very fortunate to have a position working with [Professor Martin Westwell](https://www.sace.sa.edu.au/about/publications/chief-executive-blog), who stimulates curiosity and creative thinking in everyone around him. Through him, I developed a great appreciation for applied psychology and during my time working with Professor Westwell, my idea of studying virtual reality aftereffects emerged.
 
 In 2018, I started a post-doc position with Dr Loetscher at the University of South Australia. During this time, I have led the development of virtual reality and eye-tracking research projects. There is more information about these projects under the research tab on the left. I am also grateful for the support and mentoring from [Professor Mark Billinghurst](https://scholar.google.com/citations?user=S-J_ItYAAAAJ&hl=en) at the University of South Australia.
 
