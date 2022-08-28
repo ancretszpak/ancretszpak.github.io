@@ -41,6 +41,7 @@ It is not known whether a user can accurately judge subtle changes in depth perc
 ~~~
 </br>
 ~~~
+
  (1) [Factors associated with virtual reality sickness in head-mounted displays: a systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145389/pdf/fnhum-14-00096.pdf).
 
 (2) [Exergaming with Beat Saber: An Investigation of Virtual Reality Aftereffects](https://www.jmir.org/2020/10/e19840/).
@@ -84,6 +85,7 @@ It is not known whether a user can accurately judge subtle changes in depth perc
   ~~~
   </br>
   ~~~
+
 (1) [Getting your game on: Using virtual reality to improve real table tennis skills](https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0222351).
 
 (2) [Using Virtual Environments to Improve Real-World Motor Skills in Sports: A Systematic Review](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02159/full).
@@ -139,6 +141,7 @@ VR may provide a safe and repeatable environment for people with an intellectual
  ~~~
  </br>
  ~~~
+ 
 (1) [Using Virtual Reality to Improve Classroom Behavior in People With Down Syndrome: Within-Subjects Experimental Design](https://games.jmir.org/2022/2/e34373/).
 
 (2) [Vocational training in virtual environments for people with neurodevelopmental disorders: A systematic review](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.627301/full).
